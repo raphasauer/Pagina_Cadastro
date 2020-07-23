@@ -12,7 +12,8 @@ Editar: modifica um usuário cadastrado localmente. A chave de busca utilizada �
 
 Excluir: exclui um usuário cadastrado localmente. A chave de busca utilizada é o ID do usuário. Existe um 'toogle' de segurança, caso não seja marcado a exclusão não acontece. 
 
---------GERADO AUTOMATICAMENTE PELO QUASAR--------
+Texto gerado automaticamente pelo quasar:
+
 ## Instalar as dependências
 ```bash
 yarn
