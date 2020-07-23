@@ -1,6 +1,6 @@
-# Quasar App (teste2)
+# Tela de Cadastro
 
-A Quasar Framework app
+Uma tela de cadastro feito com o quasar framework 
 
 ## Install the dependencies
 ```bash
